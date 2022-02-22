@@ -1,6 +1,7 @@
 ### Hey! I'm Pedro Mariano 👋
 
-- 🔭 I’m currently working on initial conditions in relativistic heavy-ion collisions
+- 📚 Bachelor of Science in Physics
+- 🔭 I’m currently working on Initial Conditions in Relativistic Heavy Ions Collisions
 - 🌱 I’m currently learning JavaScript and ROOT
 - 📫 How to reach me: pedro.mariano.mendes@usp.br
 

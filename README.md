@@ -1,9 +1,9 @@
 ### Hey! I'm Pedro Mariano 👋
 
 - 📚 Bachelor of Science in Physics
-- 🔭 I’m currently working on Initial Conditions in Relativistic Heavy Ions Collisions
-- 🌱 I’m currently learning JavaScript and ROOT
-- 📫 How to reach me: pedro.mariano.mendes@usp.br
+- 🔭 I’m currently working with Data Analysis of Particle Production in Relativistic Heavy Ions Collisions
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: pedro.mariano.mendes@usp.br or pmarianousp@gmail.com
 
 ##
 
@@ -14,11 +14,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-ROOT" height="30" width="40" src="https://avatars.githubusercontent.com/u/6450093?s=200&v=4">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pedro-ROOT" height="30" width="30" src="https://avatars.githubusercontent.com/u/6450093?s=200&v=4">
+  <img align="center" alt="Pedro-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
-  
+
 ##
 <div>
   <a href="" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg" target="_blank"></a>

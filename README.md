@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning the field of Data Science, including: Machine Learning, SQL, Spark, Power BI, ...
 - 📫 How to reach me: pmarianousp@gmail.com
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pemariano/)
+<div>
+  <a href="https://www.linkedin.com/in/pemariano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ##
 

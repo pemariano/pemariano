@@ -5,17 +5,21 @@
 - 🌱 I’m currently learning the field of Data Science, including: Machine Learning, SQL, Spark, Power BI, ...
 - 📫 How to reach me: pmarianousp@gmail.com
 
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pemariano/)
+
 ##
+
+### Languages that I use:
 
 <div>
   <a href="https://github.com/pemariano">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pemariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemariano&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemariano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
 
-**Skills:** 
+### Skills:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

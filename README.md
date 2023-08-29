@@ -1,9 +1,9 @@
 ### Hey! I'm Pedro Mariano 👋
 
-- 📚 Bachelor of Science in Physics
+- 📚 Bachelor of Science in Physics at University of São Paulo (Brazil)
 - 🔭 I’m currently working with Data Analysis of Particle Production in Relativistic Heavy Ions Collisions
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: pedro.mariano.mendes@usp.br or pmarianousp@gmail.com
+- 🌱 I’m currently learning Data Science field, Machine Learning, SQL, Spark,...
+- 📫 How to reach me: pmarianousp@gmail.com
 
 ##
 

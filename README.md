@@ -2,7 +2,7 @@
 
 - 📚 Bachelor of Science in Physics at University of São Paulo (Brazil)
 - 🔭 I’m currently working with Data Analysis of Particle Production in Relativistic Heavy Ions Collisions
-- 🌱 I’m currently learning the field of Data Science, including: Machine Learning, SQL, Spark, Power BI, ...
+- 🌱 I’m currently studying the field of Data Science, including: Machine Learning, SQL, Spark, Power BI, AWS, ...
 - 📫 How to reach me: pmarianousp@gmail.com
 
 <div>
